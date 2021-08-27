@@ -1,0 +1,6 @@
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaEntidad\obj\Debug\CapaEntidad.pdb

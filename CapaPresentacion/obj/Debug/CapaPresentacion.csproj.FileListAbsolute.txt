@@ -1,0 +1,17 @@
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\proyCrud_Basico.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\proyCrud_Basico.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.CategoriaCP.resources
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

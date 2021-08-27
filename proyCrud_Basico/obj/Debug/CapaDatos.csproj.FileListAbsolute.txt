@@ -1,0 +1,9 @@
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\bin\Debug\proyCrud_Basico.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\bin\Debug\proyCrud_Basico.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\bin\Debug\CapaEntidad.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\bin\Debug\CapaEntidad.pdb
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\obj\Debug\proyCrud_Basico.dll
+C:\Users\Owen\Documents\Visual Studio 2019\proyectos\PROYECTO_PRACTICA\proyCrud_Basico\proyCrud_Basico\obj\Debug\proyCrud_Basico.pdb
